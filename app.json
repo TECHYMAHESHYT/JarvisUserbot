@@ -1,7 +1,7 @@
 {
   "name": "JARVIS",
-  "description": "Userbot created by a Poor Student and join https://t.me/jarvissupportot for any problems or support",
-  "logo": "https://github.com/Jarvis-Works/JarvisUserbot/blob/master/jarvis.png?raw=true",
+  "description": "Userbot created by a Poor Student and join https://t.me/free_pgsharp_keys for any problems or support",
+  "logo": "https://github.com/TECHYMAHESHYT/JarvisUserbot",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Jarvis-Works/JarvisUserbot/",
-  "website": "https://jarvisworks.ga/userbot",
+  "repository": "https://github.com/TECHYMAHESHYT/JarvisUserbot",
   "success_url": "#TODO",
   "stack": "container",
   "env": {
