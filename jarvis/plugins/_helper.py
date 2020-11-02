@@ -3,7 +3,7 @@ from telethon import functions
 from jarvis import ALIVE_NAME, CMD_HELP, CMD_LIST
 from jarvis.utils import admin_cmd, edit_or_reply, sudo_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "@JarvisOT"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "@TechyYt"
 
 
 @jarvis.on(admin_cmd(pattern="help ?(.*)", outgoing=True))
