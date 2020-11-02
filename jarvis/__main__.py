@@ -52,7 +52,7 @@ for name in files:
         shortname = path1.stem
         start_assistant(shortname.replace(".py", ""))
 
-print("JARVIS AI AND YOUR ASSISTANT is Active Enjoy Join @JarvisOT For Updates.")
+print("Techy AI AND YOUR ASSISTANT is Active Enjoy Join @FREE_PGSHARP_KEYS For Updates.")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
