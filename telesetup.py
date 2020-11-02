@@ -3,7 +3,7 @@ from telethon.sync import TelegramClient
 
 print("")
 print("")
-print(""" Welcome To J.A.R.V.I.S String Generator By Jarvis""")
+print(""" Welcome To Techy String Generator By Jarvis""")
 print("""Kindly Enter Your Details To Continue ! """)
 
 API_KEY = "1754367"
